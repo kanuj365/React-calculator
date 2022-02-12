@@ -5,7 +5,7 @@ import Btn from "./Btn";
 export default function App() {
   return (
     <>
-      <h1 style={{ color: "" }}>Welcome To Inside The Number Game</h1>
+      <h1 style={{ textAlign: "center" }}>Welcome To Inside The Number Game</h1>
       <Btn />
     </>
   );
